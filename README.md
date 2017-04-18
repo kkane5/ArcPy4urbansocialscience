@@ -1,5 +1,5 @@
 # ArcPy4urbansocialscience
-An "in-progress" collection of ArcPy scripts useful for urban social science research by Kevin Kane. 
+An "in-progress" collection of ArcPy scripts useful for urban social science research by Kevin Kane. Example shapefiles of census blocks and business establishments in Irvine, California are provided. 
 
 (1) GET THIS INTO BLOCKS!  A collection of spatial join functionality to help "scale up" data to larger spatial units.
 
