@@ -1,5 +1,5 @@
 # ArcPy4urbansocialscience
-A collection of ArcPy scripts useful for urban social science research
+An "in-progress" collection of ArcPy scripts useful for urban social science research by Kevin Kane. 
 
 (1) GET THIS INTO BLOCKS!  A collection of spatial join functionality to help "scale up" data to larger spatial units.
 
